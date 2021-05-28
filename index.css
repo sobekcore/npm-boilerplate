@@ -1,0 +1,12 @@
+body {
+  background: #1E1E1E;
+}
+
+h1 {
+  font-family: sans-serif;
+  color: #8FDDFC;
+  position: absolute;
+  left: 50%; top: 50%;
+  transform: translate(-50%, -50%);
+  margin: 0;
+}
