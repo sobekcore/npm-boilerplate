@@ -1,2 +1,2 @@
-let message = "npm Boilerplate";
+const message = "npm Boilerplate";
 console.log(message);
